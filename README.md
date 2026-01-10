@@ -1,5 +1,5 @@
 
-   <p align="center"><strong>👋 Hi, I’m Caroline Oriama</strong></p></br>
+   <h2 align="center"><strong>👋 Hi, I’m Caroline Oriama</strong></h2>
 
 
 
