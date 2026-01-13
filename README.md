@@ -1,7 +1,9 @@
 
    <h2 align="center"><strong>👋 Hi, I’m Caroline Oriama</strong></h2>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=carolOriama&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 <div align="center">
   
@@ -29,9 +31,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=carolOriama&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 
 ## 🧑‍💻 About Me
 
